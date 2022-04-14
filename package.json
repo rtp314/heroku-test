@@ -10,6 +10,8 @@
   "author": "rtp-314",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
-  }
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.3"
+  },
+  "type": "module"
 }
